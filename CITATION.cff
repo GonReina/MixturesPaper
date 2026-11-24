@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software archive."
+title: 'Simulation code for "Fast Generation of Metrologically Relevant Fock State Mixtures"'
+type: software
+authors:
+  - family-names: Reina Rivero
+    given-names: Gonzalo
+    affiliation: Universidad Politécnica de Cartagena
+  - family-names: Morillas-Rozas
+    given-names: Marcel
+    affiliation: Universidad Politécnica de Cartagena
+  - family-names: López-García
+    given-names: Alberto
+    affiliation: Universidad Politécnica de Cartagena
+  - family-names: Cerrillo
+    given-names: Javier
+    affiliation: Universidad Politécnica de Cartagena
+repository-code: "https://github.com/GonReina/MixturesPaper"
+# doi: 10.5281/zenodo.XXXXXXX   # TODO: add after the Zenodo release
+# license: MIT                  # TODO: choose a license
+keywords:
+  - trapped ions
+  - Fock states
+  - quantum metrology
+  - selective population trapping
+  - QuTiP

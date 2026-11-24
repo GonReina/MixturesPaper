@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.tmp
+.venv/
+smoke.ipynb
+
+# kept locally, not released
+development/rf_kick_polaron.ipynb
+development/rf_kick_polaron_cache.pkl
+development/figures/
